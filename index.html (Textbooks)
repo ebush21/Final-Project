@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>College 101</title>
+		<meta charset="utf-8">		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="College 101; a site dedicated to assisting all college students.">
+		<!--[if lt IE 9]>
+		<script src="//http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="wrapper"> <!--- Wrapper Start ---->
+			<div id="title">
+				<h1 class="title">College 101</h1>
+		</div>
+		<div id="nav">
+			<nav>
+				<ul id="clickablelinks">
+					<li><a href="GroupFinal.html">Home</a></li>
+					<li class="dropdown"><a href="Textbooks/index.html">Textbooks</a>
+						<div class="dropdown-content">
+							<a href="Textbooks/Savings/index.html"></a>
+							<a href="Textbooks/WhenToBuy/index.html"></a>
+						</div>
+					</li>
+					<li><a href="SchoolSupplies.html">School Supplies</a></li>
+					<li class="dropdown"><a href="Social/index.html">Social</a>
+						<div class="dropdown-content">
+							<a href="Social/GeneralHintsTips/index.html"></a>
+						</div>
+					</li>
+					<li class="dropdown"><a href="HealthyEating/index.html">Healthy Eating</a>
+						<div class="dropdown-content">
+							<a href="HealthyEating/FoodSavings/index.html"></a>
+							<a href="HealthyEating/QuickEasy/index.html"></a>
+						</div>
+					</li>
+					<li class="dropdown"><a href="Furnishings/index.html">Furnishings</a>
+						<div class="dropdown-content">
+							<a href="Furnishings/BuySkip/index.html"></a>
+						</div>
+					</li>
+				</ul>
+			</nav>
+		</div>
+			
+	<aside>
+		<h2>Weekly Discounts</h2>
+		
+		
+			</aside>
+	<div id="main">
+		<h1>Home</h1>
+			<p>
+			Welcome to College 101, the site that dedicates itself towards helping YOU enjoy college,
+			both socially and financially. On this website we offer links and deals that can help you
+			in several aspects of college life, such as books, savings and where you can find the best deals,
+			recommendations on necessary supplies and other aspects every college student should know in order
+			to make the experience more enjoyable.
+			<br /><br />
+			Just click on the links provided throughout our site in order to be directed to the queries of your choice.
+			We hope our site helps you, and we hope you enjoy your college experience!
+			</p>
+	<footer>
+		<section id="groupWork">
+			<h4>&copy; Group 7</h4>
+			<p>Fall 2016 (Final)</p>
+		</section>
+	</footer> <!---- End of Copyrighting Section ---->
+	</div>
+		</div> <!---- End of Wrapper ---->
+	</body>
+</html>
