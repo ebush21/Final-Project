@@ -16,20 +16,58 @@ body {
   margin: 75%;
   padding: 3%;
 }
+
 aside{
 	float:right; 
 	padding:10px; 
-	background:; 
-	width:300px;
+	background-color: #6d6d6d; 
+	width: 25%;
 }
+
+footer {
+	float: left;
+	clear: right;
+	padding: 2%
+}
+
+#title {
+	color: #c21764;
+	font-family: CollegiateHeavyOutline, arial;
+	src: url(fonts/collegiateHeavyOutlineMedium.ttf);
+	text-align: center;
+}
+
+/*Headings*/
+
+h1 {
+	color: #c21764;
+}
+
+h2 {
+	color: #c23c17;
+}
+
+h3 {
+	color: #eb5466;
+}
+
+h4 {
+	color: white;
+}
+	
 
 
 		/*divs*/
 
-#main{background:; float:left; width:560px; padding:5px 10px;}
+.main {
+	background-color: #6d6d6d; 
+	float:left; 
+	margin-left: 27%;
+	width: 65%;
+	padding:5px 10px;
+}
 
 
-#footer{clear:both; padding:5px 10px; margin:}
 
 
 		/*main navigaton*/
