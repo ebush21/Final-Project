@@ -3,21 +3,54 @@ Dark Red: #c2172b
 Orange: #c23c17
 Hot Pink: #c21764
 Light Pink: #eb5466
-Gray: #6d6d6d
+Gray: 6d6d6d
 Black: #000000
 */
 
 body {
   color: black;
-  background-color: #c2172b; 
+  background-color: #c2172b;
+  
+  
+}
+		/*divs*/
+		
+#nav{background:pink;}
+
+#main{background:; float:left; width:560px; padding:5px 10px;}
+
+#sidebar{float:right; padding:10px; background:; width:300px;}
+
+#footer{clear:both; padding:5px 10px; margin:}
+
+
+		/*main navigaton*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden ;
+    border: 1px solid #8d4444;
+    background-color:#8d4444;
 }
 
-.wrapper {
-  background-color: #6d6d6d;
-  margin: 5%;
+li {  float: left;
+	 margin-left:2%;
+	 padding-left:75px;
+ }
+
+li a {
+    display: block;
+    color: #FAF0E6;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size:15pt;
 }
 
-h1 {
-  font-family: CollegiateHeavyOutline;
-  src: url(fonts/collegiateHeavyOutline Medium.ttf);
-}
+li a:hover:not(.active) {
+    background-color:blue;}
+
+li a.active {
+    color: red;
+    background-color: #4CAF50;
