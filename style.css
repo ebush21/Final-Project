@@ -3,13 +3,21 @@ Dark Red: #c2172b
 Orange: #c23c17
 Hot Pink: #c21764
 Light Pink: #eb5466
-Gray: 6d6d6d
+Gray: #6d6d6d
 Black: #000000
 */
 
 body {
   color: black;
-  background-color: #c2172b;
-  
-  
+  background-color: #c2172b; 
+}
+
+.wrapper {
+  background-color: #6d6d6d;
+  margin: 5%;
+}
+
+h1 {
+  font-family: CollegiateHeavyOutline;
+  src: url(fonts/collegiateHeavyOutline Medium.ttf);
 }
