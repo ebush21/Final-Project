@@ -16,15 +16,18 @@ body {
   margin: 75%;
   padding: 3%;
 }
-		/*divs*/
-		
-#nav{
-  
+aside{
+	float:right; 
+	padding:10px; 
+	background:; 
+	width:300px;
 }
+
+
+		/*divs*/
 
 #main{background:; float:left; width:560px; padding:5px 10px;}
 
-#sidebar{float:right; padding:10px; background:; width:300px;}
 
 #footer{clear:both; padding:5px 10px; margin:}
 
