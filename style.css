@@ -9,13 +9,18 @@ Black: #000000
 
 body {
   color: black;
-  background-color: #c2172b;
-  
-  
+  background-color: #c2172b; 
+}
+
+.wrapper {
+  margin: 75%;
+  padding: 3%;
 }
 		/*divs*/
 		
-#nav{background:pink;}
+#nav{
+  
+}
 
 #main{background:; float:left; width:560px; padding:5px 10px;}
 
@@ -30,8 +35,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow:hidden ;
-    border: 1px solid #8d4444;
-    background-color:#8d4444;
+    border: 1px solid #eb5466;
+    background-color: #eb5466;
 }
 
 li {  float: left;
@@ -41,7 +46,7 @@ li {  float: left;
 
 li a {
     display: block;
-    color: #FAF0E6;
+    color: #c23c17;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -49,8 +54,8 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color:blue;}
+    background-color: white;}
 
 li a.active {
-    color: red;
-    background-color: #4CAF50;
+    color: #6d6d6d;
+    background-color: #eb5466;
