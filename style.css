@@ -21,13 +21,14 @@ aside{
 	float:left; 
 	padding:10px; 
 	background-color: #6d6d6d; 
-	width: 15%;
+	width: 20%;
+	margin-left: 5%;
 }
 
 footer {
 	float: left;
 	clear: right;
-	padding: 2%
+	padding: 2%;
 }
 
 #title {
