@@ -18,10 +18,10 @@ body {
 }
 
 aside{
-	float:right; 
+	float:left; 
 	padding:10px; 
 	background-color: #6d6d6d; 
-	width: 25%;
+	width: 15%;
 }
 
 footer {
@@ -91,7 +91,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	font-size:15pt;
+	font-size: 15pt;
 }
 
 li a:hover:not(.active) {
