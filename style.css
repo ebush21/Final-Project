@@ -266,6 +266,15 @@ h4 {
 			width: 560px; 
 			height: 315px;
 		}
+/*What To Buy*/
+		
+		.decor_images
+		{
+			width: 280px;
+			height: 280px;
+			float: right;
+			margin-right: 15%;	
+		}
 		
 
 
