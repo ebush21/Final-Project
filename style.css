@@ -30,6 +30,11 @@ body {
 	padding: 1%;
 	background-color: #fbdde1;
 	margin-top: 2%;
+	
+}
+
+#short {
+	min-height: 875px;
 }
 
 aside {
@@ -63,14 +68,17 @@ footer {
 
 h1 {
 	color: #c23c17;
+	text-align: center;
 }
 
 h2 {
 	color: #fbdde1;
+	text-align: center;
 }
 
 h3 {
-	color: #eb5466;
+	color: #c23c17;
+	text-align: center;
 }
 
 h4 {
@@ -147,9 +155,30 @@ h4 {
 				margin: 0;
 				padding: 0;
 				overflow:hidden ;
-  
-   
+			}
+/*Home Page*/
+		.index_images {
+			padding: 2%;
+			width: 225px;
+			height: 150px;
+			padding-left: 13px;
+		}
+		
+		
+		div.polaroid {
+			 width: 28%;
+			 background-color: white;
+			 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			 margin-bottom: 25px;
+			 color: black;
+			 float: right;
+			 margin-right: 4%;
+		}
 
+		div.container {
+			 text-align: center;
+			 padding: 10px 20px;
+			}
 
 
 
