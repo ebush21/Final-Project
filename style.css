@@ -223,6 +223,27 @@ h4 {
 			float: right;
 			margin-right: 10%;
 		}
+/*Healthy Eating*/
+
+		table 
+		{
+			margin-left: 10%;
+			text-align: center;
+		}
+		#black-beans
+		{
+			width: 320px;
+			height: 300px;
+			float: right;
+			margin-right: 10%;
+		}
+		#baked-parmesan
+		{
+			width: 320px;
+			height: 300px;
+			float: right;
+			margin-right: 10%;
+		}
 
 
 
