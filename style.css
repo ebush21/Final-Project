@@ -292,6 +292,24 @@ h4 {
 			margin-left: 10%;
 			margin-right: 10%
 		}
+/*Furnishings*/
+		#photo_pile
+		{
+			width: 280px;
+			height: 280px;
+			float: right;
+			padding: 2%;
+			margin-right: 15%;
+		}
+		#dryer_sheet
+		{
+			width: 280px;
+			height: 280px;
+			float: right;
+			padding: 2%;
+			margin-right: 10%;
+			
+		}
 		
 		
 		
