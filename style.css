@@ -179,6 +179,16 @@ h4 {
 			 text-align: center;
 			 padding: 10px 20px;
 			}
+		.aside_images {
+			width: 200px;
+			height: 200px;
+			margin-left: 11%;
+		}
+		
+		#sale_20 {
+			width: 250px;
+			margin: 0;
+		}
 		
 		#20 {
 			width: 225px;
