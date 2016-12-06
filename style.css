@@ -358,6 +358,38 @@ h4 {
 		#short_contact {
 			min-height: 1000px;
 		}
+/*When to Buy*/
+	
+		#main_text_when {
+			margin-right: 5%;
+			margin-left: 5%;
+			text-align: justify;
+		}
+		
+		.tobuy_images {
+			width: 400px;
+			height: 250px;
+			border-radius: 10%;
+			float: left;
+			margin-left: 25%;
+			padding: 3%;
+		}
+		#short_tobuy {
+			min-height: 1200px;
+		}
+/*Social*/
+		.font_size {
+			font-size: 15pt;
+		}
+		
+/*hints and tips*/
+		#hints_image {
+			width: 75%;
+			margin-left: 12%;
+		}
+		.smile {
+			margin-left: 35%;
+		}
 		
 
 
