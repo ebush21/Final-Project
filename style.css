@@ -357,12 +357,12 @@ h4 {
 @media only screen and (max-width: 500px) {
 			.title{ font-size: 30px;}
 			.dropdown{position: relative; float: none; clear: none; width: 100%;}
-			aside {width: 90%; float: none; padding: none;}
+			aside {width: 90%; float: none; padding: 0;}
 			.aside_images{width: 85%;}
 			#sale_20{margin-left: 10%;}
 			img{width: 100%;}
-			.main {width: 100%; margin: none; padding: none;}
-			.index_images, .contact_images {width: 85%; padding-left: none; padding: none; margin: 0 auto;}
+			.main {width: 100%; margin: 0; padding: 0;}
+			.index_images, .contact_images {width: 85%; padding-left: 0; padding: 0; margin: 0 auto;}
 			div.polaroid, .contact {float: none; width: 85%; margin: 0 auto;}
 			table {width: 100% float: none; margin: 0 auto;}
 			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings {width: 95%; float: none; clear: none; margin: 0 auto;}
