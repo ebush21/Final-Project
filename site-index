@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>College 101 || Site Index</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="General Index.">
+		<!--[if lt IE 9]>
+		<script src="//http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div id="wrapper"> <!-- Wrapper Start -->
+			<div id="title">
+				<h1 class="title">College 101</h1>
+		</div>
+		<div id="nav">
+			<nav>
+				<ul id="clickablelinks">
+					<li class="dropdown">
+					<a href="groupfinal.html" class="dropbtn">Home</a>
+					</li>
+					
+					<li class="dropdown">
+					<a href="textbooks.html" class="dropbtn">Textbooks</a>
+						<div class="dropdown-content">
+							<a href="savings.html">Savings</a>
+							<a href="whentobuy.html">When to Buy</a>
+						</div>
+					</li>
+					
+					<li class="dropdown">
+					<a href="schoolsupplies.html" class="dropbtn">School Supplies</a>
+					</li>
+					
+					<li class="dropdown">
+					<a href="social.html" class="dropbtn">Social</a>
+						<div class="dropdown-content">
+							<a href="generalhintstips.html">Tips to Survive</a>
+						</div>
+					</li>
+					
+					<li class="dropdown">
+					<a href="healthyeating.html" class="dropbtn">Healthy Eating</a>
+						<div class="dropdown-content">
+							<a href="foodsavings.html">Food Savings</a>
+							<a href="quickeasy.html">Quick Easy Meals</a>
+						</div>
+					</li>
+					
+					<li class="dropdown">
+					<a href="furnishings.html" class="dropbtn">Furnishings</a>
+						<div class="dropdown-content">
+							<a href="buyskip.html">What to Buy</a>
+						</div>
+					</li>
+					
+					<li class="dropdown">
+					<a href="contactus.html" class="dropbtn">Contact Us</a>
+						<div class="dropdown-content">
+							<a href="site-index.html">Site Index</a></li>
+					</li>
+					
+
+				</ul>
+			</nav>
+		</div>
+			
+	<aside>
+		<h2>Weekly Discounts</h2>
+			<img src="images/deal_day.jpg" alt="deal of the day" class="aside_images"/>
+			<h3>Kia Furniture</h3>
+			<img src="images/chair.jpg" alt="pink chair" class="aside_images" />
+			<p>Pink Arm Chair on Sale Today Only</p>
+			<img src="images/20_off.png" alt="20% Off" id="sale_20" class="aside_images" />
+			<p>Original Price $200</p>
+			<p>New Price $160</p>
+	</aside>
+			
+	<div class="main" id="short">
+		<ul>
+			<li><a href="groupfinal.html">Home</a></li>
+			<li><a href="textbooks.html">Textbooks</a>
+				<ul>
+					<li><a href="savings.html">Savings</a></li>
+					<li><a href="whentobuy.html">When to Buy</a></li>
+				</ul>
+			</li>
+			<li><a href="schoolsupplies.html">School Supplies</a></li>
+			<li><a href="social.html">Social</a>
+				<ul>
+					<li><a href="generalhintstips.html">Tips to Survive</a></li>
+				</ul>
+			</li>
+			<li><a href="healthyeating.html">Healthy Eating</a>
+				<ul>
+					<li><a href="foodsavings.html">Food Savings</a></li>
+					<li><a href="quickeasy.html">Quick Easy Meals</a></li>
+				</ul>
+			</li>
+			<li><a href="furnishings.html">Furnishings</a>
+				<ul>
+					<li><a href="buyskip.html">What to Buy</a></li>
+				</ul>
+			</li>
+			<li><a href="contactus.html">Contact Us</a>
+				<ul>
+					<a href="site-index.html">Site Index</a></li>
+				</ul>
+			</li>
+		</ul>	
+		
+		
+		</div> 
+		</div> <!-- End of Wrapper -->
+	<footer>
+		<section id="groupWork">
+			<h4>&copy; Group 7</h4>
+			<p>Fall 2016 (Final)</p>
+		</section>
+	</footer> <!-- End of Copyrighting Section -->
+	</body>
+</html>
