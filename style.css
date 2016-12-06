@@ -351,6 +351,44 @@ h4 {
 			min-height: 1000px;
 		}
 		
+
+
+
+@media only screen and (max-width: 500px) {
+			.title{ font-size: 30px;}
+			.dropdown{position: relative; float: none; clear: none; width: 100%;}
+			aside {width: 90%; float: none; padding: none;}
+			.aside_images{width: 85%;}
+			#sale_20{margin-left: 10%;}
+			img{width: 100%;}
+			.main {width: 100%; margin: none; padding: none;}
+			.index_images, .contact_images {width: 85%; padding-left: none; padding: none; margin: 0 auto;}
+			div.polaroid, .contact {float: none; width: 85%; margin: 0 auto;}
+			table {width: 100% float: none; margin: 0 auto;}
+			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings {width: 95%; float: none; clear: none; margin: 0 auto;}
+			
+			
+		}
+    
+
+		
+		@media print {
+			nav, footer, .title, #high {display: none;}
+			aside{width: 25%;}
+			.aside_images, #sale_20 {width: 85%;}
+			body {background-color: white; color: black; }
+			.main {background-color: white; width: 85%; margin: 0;}
+			aside{width: 25%; margin: 0; background-color: white; color: black;}
+			h1, h2, h3, h4, p, ul, li, {color: black;}
+			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings {display: none;}
+			div.polaroid, .contact {display: none;}
+			.index_images, .contact_images {display: none;}
+			
+			
+			
+		}
+
+
 		
 		
 		
