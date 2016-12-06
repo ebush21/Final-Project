@@ -365,7 +365,7 @@ h4 {
 			.index_images, .contact_images {width: 85%; padding-left: 0; padding: 0; margin: 0 auto;}
 			div.polaroid, .contact {float: none; width: 85%; margin: 0 auto;}
 			table {width: 100% float: none; margin: 0 auto;}
-			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings {width: 95%; float: none; clear: none; margin: 0 auto;}
+			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings, #hints_image {width: 95%; float: none; clear: none; margin: 0 auto;}
 			
 			
 		}
@@ -380,7 +380,7 @@ h4 {
 			.main {background-color: white; width: 85%; margin: 0;}
 			aside{width: 25%; margin: 0; background-color: white; color: black;}
 			h1, h2, h3, h4, p, ul, li, {color: black;}
-			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings {display: none;}
+			#strawberry, #burrito_bowl, #meatloaf, .supply_images, .tobuy_images, .images_savings, #hints_image {display: none;}
 			div.polaroid, .contact {display: none;}
 			.index_images, .contact_images {display: none;}
 			
