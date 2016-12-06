@@ -323,6 +323,34 @@ h4 {
 			float:right;
 			margin-top:2%
 		}
+
+/*Contact Us*/
+			#staff{
+				text-align: left;
+			}
+			
+			.contact_images {
+			padding: 2%;
+			width: 150px;
+			height: 150px;
+			padding-left: 35px;
+		}
+		
+		.contact {
+			 width: 32%;
+			 background-color: white;
+			 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			 margin-bottom: 25px;
+			 color: black;
+			 float: left;
+			 clear: left;
+			 margin-right: 4%;
+			 
+		}
+		#short_contact {
+			min-height: 1000px;
+		}
+		
 		
 		
 		
