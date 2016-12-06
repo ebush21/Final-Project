@@ -56,13 +56,21 @@ footer {
 	color: white;
 }
 
-#title {
-	color: white;
+.title {
+	color: #c23c17;
 	font-family: Myfont, san-serif;
 	text-align: center;
 	font-size: 45px;
 	background-color: white;
+	padding-right: 15%;
 	}
+	
+.logo {
+	height: 125px;
+	width: 150px;
+	float: left;
+	
+}
 
 /*Headings*/
 
